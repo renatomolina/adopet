@@ -173,7 +173,7 @@ a:focus {
 #is {
 	top: 0;
 	width: 100%;
-	min-height: 650px;
+	min-height: 1000px;
 	position: relative;
 	z-index: 1;
 	color: #fff;
